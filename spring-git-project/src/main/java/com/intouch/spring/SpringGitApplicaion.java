@@ -13,5 +13,6 @@ public class SpringGitApplicaion {
         ApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
         System.out.println("helloGit");
         System.out.println("update1");
+        System.out.println("update2");
     }
 }
